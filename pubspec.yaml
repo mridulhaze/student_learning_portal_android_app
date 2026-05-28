@@ -1,0 +1,30 @@
+name: nu_student_portal
+description: NU Student Learning Portal - Flutter App
+version: 1.0.0+1
+publish_to: 'none'
+
+environment:
+  sdk: '>=3.10.0 <4.0.0'
+  flutter: ">=3.10.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.5
+  sql_conn: 2.0.0
+  youtube_player_iframe: ^4.0.3
+  youtube_player_flutter: ^9.1.1
+  url_launcher: ^6.2.5
+  cached_network_image: ^3.3.1
+  flutter_animate: ^4.5.0
+  shimmer: ^3.0.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/
