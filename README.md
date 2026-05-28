@@ -1,17 +1,18 @@
-# online_project1
+# student_learning_portal_android_app
 
-A new Flutter project.
+A Flutter app for discovering the student learning hub.
+
+## Project Overview
+
+This repository contains a Flutter project for the student learning portal Android application.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+1. Install Flutter and dependencies.
+2. Run `flutter pub get`.
+3. Start the app with `flutter run`.
 
-A few resources to get you started if this is your first Flutter project:
+## Notes
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- This project includes Android, iOS, web, Linux, macOS, and Windows support templates.
+- Use the existing Flutter configuration files to build and run on your target platform.
